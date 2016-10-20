@@ -16,7 +16,7 @@ Setup
 
 3. Add a MatterWorld component to your root
 
-4. Add Rigidbody component to yours objects in stage. 
+4. Add to that a Rigidbody component to yours objects with collider.
 
 ### About
 
