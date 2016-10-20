@@ -1,7 +1,9 @@
 # cocos-creator-physics
 Cocos Creator Physics Plugins
 
-2 clean components to add basic phusics to Cocos Creator, using Matter.js
+![alt tag](demo.jpg)
+
+Components to add basic physics to Cocos Creator, using Matter.js
 
 ### Install
 ##### Cocos Creator
@@ -17,6 +19,9 @@ Setup
 3. Add a MatterWorld component to your root
 
 4. Add to that a Rigidbody component to yours objects with collider.
+
+##### Example 
+Basic rectangle, circular and custom shapes colliders example [link](https://github.com/mjnf/cocos-creator-physics)
 
 ### About
 
