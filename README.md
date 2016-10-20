@@ -16,4 +16,4 @@ Setup
 
 3. Add a MatterWorld component to your root
 
-4. Add rigidbody component to your objects in stage. 
+4. Add Rigidbody component to yours objects in stage. 
