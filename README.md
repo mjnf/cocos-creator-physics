@@ -23,6 +23,10 @@ Setup
 ##### Example 
 Basic rectangle, circular and custom shapes colliders example [link](https://github.com/mjnf/cocos-creator-physics)
 
+### Demo
+[Open](http://staging.inmoove.com/cocos-creator-physics/)
+
 ### About
 
 The library is a manual port of the Js library [MatterJS](https://github.com/liabru/matter-js) for Cocos Creator
+
