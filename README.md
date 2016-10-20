@@ -17,3 +17,7 @@ Setup
 3. Add a MatterWorld component to your root
 
 4. Add Rigidbody component to yours objects in stage. 
+
+### About
+
+The library is a manual port of the Js library [MatterJS](https://github.com/liabru/matter-js) for Cocos Creator
