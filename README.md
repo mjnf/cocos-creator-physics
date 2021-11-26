@@ -13,12 +13,12 @@ Setup
 1. Download and install 
 [matter-js](https://github.com/liabru/matter-js/releases/tag/0.10.0) and [poly-decomp.js](https://github.com/schteppe/poly-decomp.js)
 
-2. Download and copy in to your Cocos Creator proyect 
+2. Download and copy into your Cocos Creator project 
 [MatterWorld.js](components/MatterWorld.js) and [Rigidbody.js](components/Rigidbody.js) 
 
 3. Add a MatterWorld component to your root
 
-4. Add to that a Rigidbody component to yours objects with collider.
+4. Add a Rigidbody component to yours objects with collider.
 
 ##### Example 
 Basic rectangle, circular and custom shapes colliders example [link](https://github.com/mjnf/cocos-creator-physics)
